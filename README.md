@@ -1,10 +1,8 @@
 
 
 
-## Olá, eu sou a Janaina! <img src="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw" width= 30px >
+## Olá, eu sou a Janaina! <
 ## Sobre mim =
-<div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="lindinha.gif?raw=true" />
 <p> - 🐞 Aluna na Vai na Web Frontend Dev  </p>
 <p> - 💻 Interesse: HTML, CSS, JavaScript, Python. </p>
 </div>
