@@ -1,7 +1,7 @@
 
  
 
-<p align="center">Olá, meu nome é Janaina!❤️ .</p>&nbsp; <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="center">Olá, meu nome é Janaina!❤️ </p>&nbsp; <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZqZDQ3MjEybm00dTlwcHd5b2lpYjByejA1MTJxM284d2FzeWhrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="30px">
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
