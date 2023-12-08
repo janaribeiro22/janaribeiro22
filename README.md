@@ -7,6 +7,7 @@
 ### Sobre mim 🌸
 <p> - 🐞 Aluna no Vai na Web cursando Frontend Dev </p>
 <p> - 💻 Interesse: HTML, CSS, JavaScript, Python. </p>
+<p> - Sou uma Dev em construção </p>
 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
