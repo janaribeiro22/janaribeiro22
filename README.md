@@ -1,10 +1,7 @@
 
  
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZqZDQ3MjEybm00dTlwcHd5b2lpYjByejA1MTJxM284d2FzeWhrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width= "100px" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Olá, meu nome é Janaina!❤️ .</p>&nbsp; <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
