@@ -1,7 +1,7 @@
 
  
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN3ZDRudHc0bDhrYTRuNmRzaHBmOHlta3ljenE4cmZkbXFhbmcwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN3ZDRudHc0bDhrYTRuNmRzaHBmOHlta3ljenE4cmZkbXFhbmcwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width= "30px" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
