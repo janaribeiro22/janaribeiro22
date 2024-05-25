@@ -5,7 +5,7 @@
 ## Olá, eu sou a Janaina! 
 
 ### Sobre mim 🌸
-<p> - 🐞 Aluna no Vai na Web </p>
+<p> - 🐞 Formanda no Vai na Web em Desenvolvimento Web </p>
 <p> - 💻 Interesse: HTML, CSS, JavaScript, Python. </p>
 <p> - 👩🏽‍💻 Uma Dev em construção </p>
 
